@@ -10,20 +10,20 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://your-portfolio-domain.com'),
-  title: "Tarek Issaoui - Full-Stack Developer & Technical Mentor",
+  title: "Tarek Issaoui - Full-Stack Developer",
   description: "Experienced Full-Stack Developer with 2+ years in web and mobile development. Specializing in React, Angular, Node.js, TypeScript, and modern JavaScript technologies.",
   keywords: "Full Stack Developer, React Developer, Angular Developer, Node.js Developer, JavaScript Expert, TypeScript, Technical Mentor, Web Development, Mobile Development",
   authors: [{ name: "Tarek Issaoui" }],
   creator: "Tarek Issaoui",
   openGraph: {
-    title: "Tarek Issaoui - Full-Stack Developer & Technical Mentor",
+    title: "Tarek Issaoui - Full-Stack Developer ",
     description: "Experienced Full-Stack Developer specializing in modern web and mobile technologies",
     type: "website",
     locale: "en_US",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Tarek Issaoui - Full-Stack Developer & Technical Mentor",
+    title: "Tarek Issaoui - Full-Stack Developer ",
     description: "Experienced Full-Stack Developer specializing in modern web and mobile technologies",
   },
   robots: {
