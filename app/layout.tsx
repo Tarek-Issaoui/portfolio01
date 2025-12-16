@@ -30,6 +30,11 @@ export const metadata: Metadata = {
     index: true,
     follow: true,
   },
+  icons: {
+    icon: '/tarek_image.jpeg',
+    shortcut: '/tarek_image.jpeg',
+    apple: '/tarek_image.jpeg',
+  },
 };
 
 export default function RootLayout({
